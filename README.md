@@ -1,2 +1,3 @@
-# fullstack2021
-Helsingin Yliopisto Full Stack
+# fullstack2021palautus
+Helsingin Yliopisto Full Stack -palautusrepositorio
+Juuso Rinta
